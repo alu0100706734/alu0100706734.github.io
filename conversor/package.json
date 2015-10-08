@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "latest"
+	"gulp": "~3.8.10"
+  },
+  
+  "name": "temperature",
+  "description": "ETSII ULL Grado de Informatica",
+  "version": "1.0.0",
+  "main": "temperature.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "open tests/index.html # mac OS"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Casiano",
+  "license": "ISC",
+  "homepage": "https://github.com/crguezl/ull-etsii-grado-pl-1213-temperature-converter/tree/gh-pages"
+}
